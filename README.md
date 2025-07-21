@@ -2,7 +2,7 @@
 
 *AI-assisted Malware Classification for Ghidra*
 
-GhAIdra is a Python-powered plugin for [Ghidra](https://ghidra-sre.org/) that integrates with Ghidra's decompiler output to predict the type of malware being analyzed. It leverages static features and AI/ML models to identify suspicious patterns and behaviors, providing contextual annotations directly inside Ghidra.
+MalScanAI is a Python-powered plugin for [Ghidra](https://ghidra-sre.org/) that integrates with Ghidra's decompiler output to predict the type of malware being analyzed. It leverages static features and AI/ML models to identify suspicious patterns and behaviors, providing contextual annotations directly inside Ghidra.
 
 ## 🚀 Features
 
@@ -27,5 +27,5 @@ GhAIdra is a Python-powered plugin for [Ghidra](https://ghidra-sre.org/) that in
 1. Install GhidraBridge and connect Python to Ghidra.
 2. Clone this repo:
    ```bash
-   git clone https://github.com/yourname/ghaidra.git
-   cd ghaidra
+   git clone https://github.com/yourname/malscanai.git
+   cd malscanai
