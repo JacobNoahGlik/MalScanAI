@@ -27,5 +27,6 @@ MalScanAI is a Python-powered plugin for [Ghidra](https://ghidra-sre.org/) that 
 1. Install GhidraBridge and connect Python to Ghidra.
 2. Clone this repo:
    ```bash
-   git clone https://github.com/yourname/malscanai.git
-   cd malscanai
+   git clone https://github.com/JacobNoahGlik/MalScanAI.git
+   cd MalScanAI
+   ```
