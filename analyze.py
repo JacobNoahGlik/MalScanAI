@@ -17,8 +17,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# malScanAI/features.py
-def extract_features_from_ghidra():
-    # Placeholder logic, assumes you have GhidraBridge active and the currentProgram context
